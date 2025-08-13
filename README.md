@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash B S</h1>
 <h3 align="center">VLSI design and semiconductor enthusiast</h3>
 
+
 - 🌱 I’m currently learning **System verilog and DFT**
 
 - 💻 All of my projects are available on [GitHub](https://github.com/akashbs802)
